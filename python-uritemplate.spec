@@ -7,6 +7,7 @@ URL:		https://pypi.org/project/uritemplate/
 License:	BSD 3-Clause License or Apache License, Version 2.0
 Group:		Development/Python
 BuildRequires:	python
+BuildRequires:  python%{pyver}dist(setuptools)
 BuildSystem:	python
 BuildArch:	noarch
 
