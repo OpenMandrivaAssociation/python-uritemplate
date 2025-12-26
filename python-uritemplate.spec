@@ -1,5 +1,5 @@
 Name:		python-uritemplate
-Version:	4.1.1
+Version:	4.2.0
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/u/uritemplate/uritemplate-%{version}.tar.gz
 Summary:	Implementation of RFC 6570 URI Templates
